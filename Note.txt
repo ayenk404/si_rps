@@ -1,0 +1,7 @@
+User Kaprodi
+NIP		: 198404132008121002
+Password	: tes123
+
+User Koordinator
+NIP		: 197707132002121004
+Password	: tes123
